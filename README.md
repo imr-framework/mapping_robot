@@ -1,1 +1,1 @@
-# Field Mapping Robot for simultaneous multi-parameter mapping
+# MR compatible computer numerical control machine for simultaneous multi-parameter mapping
